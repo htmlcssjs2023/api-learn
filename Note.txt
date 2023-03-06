@@ -1,0 +1,5 @@
+# This is api
+1. https://kanye.rest/ 
+https://randomuser.me/
+https://jsonplaceholder.typicode.com/
+https://restcountries.com/#api-endpoints-v3-all
