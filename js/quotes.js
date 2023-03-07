@@ -1,6 +1,6 @@
 
 const loadQuote = () =>{
-    fetch("https://api.kanye.rest/")
+    fetch("https://api.kanye.rest/") // query parameter / search string.
     .then(response => response.json())
     .then(data => displayQuote(data));
 }

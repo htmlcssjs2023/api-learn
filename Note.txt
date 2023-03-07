@@ -3,3 +3,7 @@
 https://randomuser.me/
 https://jsonplaceholder.typicode.com/
 https://restcountries.com/#api-endpoints-v3-all
+https://www.themealdb.com/api.php
+https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
+
+* JSON viewer chrome extension.
