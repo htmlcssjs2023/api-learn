@@ -7,3 +7,8 @@ https://www.themealdb.com/api.php
 https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
 
 * JSON viewer chrome extension.
+
+search string
+query string
+async 
+await
